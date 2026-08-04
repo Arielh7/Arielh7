@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
-  ¡Hola! Soy Ariel
+  Hello! I'm Ariel
 </h1>
 
 <p align="center">
@@ -9,16 +9,16 @@
 
 ---
 
-### Sobre mí:
+### About Me:
 
-- **Enfoque actual:** Desarrollo de proyectos personales y colaborativos que resuelvan problemas reales.
-- **Aprendizaje continuo:** Explorando nuevas tecnologías y profundizando en las que ya conozco.
-- **Estudiante de:** Ingeniería Automática.
-- **Intereses:** Programación, automatización, inteligencia artificial y diseño de sistemas eficientes.
+- **Current focus:** Development of personal and collaborative projects that solve real problems.
+- **Continuous learning:** Exploring new technologies and deepening my knowledge in the ones I already know.
+- **Student of:** Automatic Engineering.
+- **Interests:** Programming, automation, artificial intelligence and efficient systems design.
 
 ---
 
-### Tecnologías y herramientas:
+### Technologies and tools:
 
 <div align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -37,7 +37,7 @@
 
 ---
 
-### Conecta conmigo
+### Connect with me
 
 <div align="left">
   <a href="mailto:arielacostagarcia2005@gmail.com" target="_blank">
@@ -48,7 +48,7 @@
 ---
 
 <p align="center">
-  <i>“La mejor manera de predecir el futuro es creándolo.”</i>
+  <i>"The best way to predict the future is to create it."</i>
   <br />
   <img src="https://komarev.com/ghpvc/?username=Arielh7&color=00C9A7&style=flat-square" alt="Profile views" />
 </p>
