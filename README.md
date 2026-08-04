@@ -32,24 +32,14 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</div>
-
----
-
-### Estadísticas de GitHub:
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arielh7&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arielh7&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </div>
 
 ---
 
 ### Conecta conmigo
 
-<div align="center">
+<div align="left">
   <a href="mailto:arielacostagarcia2005@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
