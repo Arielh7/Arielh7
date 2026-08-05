@@ -40,9 +40,9 @@
 ### Connect with me
 
 <div align="left">
-  <a href="mailto:arielacostagarcia2005@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=arielacostagarcia2005@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </div>
 
 ---
