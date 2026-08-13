@@ -1,20 +1,27 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
-  Hello! I'm Ariel
+  <span style="color: #FFFFFF;">Hello! I'm</span> <span style="color: #6C63FF;">Ariel</span>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=red&center=true&vCenter=true&random=false&width=500&lines=Web+Developer;Automatic+Engineering+Student;Tech+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 120" width="100%" height="70">
+    <path fill="#6C63FF" fill-opacity="0.15" d="M0,60L48,70C96,80,192,100,288,90C384,80,480,40,576,30C672,20,768,40,864,60C960,80,1056,100,1152,90C1248,80,1344,40,1392,20L1440,0L1440,0L1392,0C1344,0,1248,0,1152,0C1056,0,960,0,864,0C768,0,672,0,576,0C480,0,384,0,288,0C192,0,96,0,48,0L0,0Z"></path>
+    <path fill="#00D2FF" fill-opacity="0.15" d="M0,30L48,40C96,50,192,70,288,60C384,50,480,30,576,20C672,10,768,30,864,50C960,70,1056,90,1152,80C1248,70,1344,40,1392,25L1440,10L1440,0L1392,0C1344,0,1248,0,1152,0C1056,0,960,0,864,0C768,0,672,0,576,0C480,0,384,0,288,0C192,0,96,0,48,0L0,0Z"></path>
+  </svg>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=500&lines=Web+Developer;Automatic+Engineering+Student;Tech+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
 </p>
 
 ---
 
 ### About Me:
 
-- **Current focus:** Development of personal and collaborative projects that solve real problems.
-- **Continuous learning:** Exploring new technologies and deepening my knowledge in the ones I already know.
-- **Student of:** Automatic Engineering.
-- **Interests:** Programming, automation, artificial intelligence and efficient systems design.
+-  **Current focus:** Development of personal and collaborative projects that solve real problems.
+-  **Continuous learning:** Exploring new technologies and deepening my knowledge in the ones I already know.
+-  **Student of:** Automatic Engineering.
+-  **Interests:** Programming, automation, artificial intelligence and efficient systems design.
 
 ---
 
@@ -33,22 +40,33 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
 ---
 
-### Connect with me
+### 📫 Connect with me
 
-<div align="left">
+<div align="center">
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=arielacostagarcia2005@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/Arielh7" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </div>
 
 ---
 
 <p align="center">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 120" width="100%" height="70">
+    <path fill="#00D2FF" fill-opacity="0.15" d="M0,60L48,70C96,80,192,100,288,90C384,80,480,40,576,30C672,20,768,40,864,60C960,80,1056,100,1152,90C1248,80,1344,40,1392,20L1440,0L1440,120L1392,120C1344,120,1248,120,1152,120C1056,120,960,120,864,120C768,120,672,120,576,120C480,120,384,120,288,120C192,120,96,120,48,120L0,120Z"></path>
+    <path fill="#6C63FF" fill-opacity="0.15" d="M0,30L48,40C96,50,192,70,288,60C384,50,480,30,576,20C672,10,768,30,864,50C960,70,1056,90,1152,80C1248,70,1344,40,1392,25L1440,10L1440,120L1392,120C1344,120,1248,120,1152,120C1056,120,960,120,864,120C768,120,672,120,576,120C480,120,384,120,288,120C192,120,96,120,48,120L0,120Z"></path>
+  </svg>
+</p>
+
+<p align="center">
   <i>"The best way to predict the future is to create it."</i>
   <br />
-  <img src="https://komarev.com/ghpvc/?username=Arielh7&color=00C9A7&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Arielh7&color=6C63FF&style=flat-square" alt="Profile views" />
 </p>
