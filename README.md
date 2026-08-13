@@ -1,14 +1,10 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
-  <span style="color: #FFFFFF;">Hello! I'm</span> <span style="color: #6C63FF;">Ariel</span>
+  Hello! I'm Ariel
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Arielh7/Arielh7/main/assets/wave-top.svg" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=500&lines=Web+Developer;Automatic+Engineering+Student;Tech+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=red&center=true&vCenter=true&random=false&width=500&lines=Web+Developer;Automatic+Engineering+Student;Tech+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
 </p>
 
 ---
@@ -37,31 +33,22 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
 ---
 
 ### Connect with me
 
-<div align="center">
+<div align="left">
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=arielacostagarcia2005@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/Arielh7" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 </div>
 
 ---
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Arielh7/Arielh7/main/assets/wave-bottom.svg" width="100%" />
-</p>
-
 <p align="center">
   <i>"The best way to predict the future is to create it."</i>
   <br />
-  <img src="https://komarev.com/ghpvc/?username=Arielh7&color=6C63FF&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Arielh7&color=00C9A7&style=flat-square" alt="Profile views" />
 </p>
