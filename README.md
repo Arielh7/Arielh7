@@ -11,7 +11,7 @@
 
 ### About Me:
 
-- **Current focus:** Development of personal and collaborative projects that solve real problems.
+- **Current focus:** Development of personal projects that solve real problems.
 - **Continuous learning:** Exploring new technologies and deepening my knowledge in the ones I already know.
 - **Student of:** Automatic Engineering.
 - **Interests:** Programming, automation, artificial intelligence and efficient systems design.
