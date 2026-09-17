@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Arielh7">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:2563eb&height=230&section=header&text=Hello%20I%20am%20Ariel&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt="Hello! I'm Ariel" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:2563eb&height=230&section=header&text=Hello!%20I'm%20Ariel&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt="Hello! I'm Ariel" />
   </a>
 </p>
 </p><p align="center">
@@ -64,7 +64,9 @@ I enjoy understanding how things work, experimenting with new ideas, and continu
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Arielh7&show_icons=true&theme=transparent&title_color=2563eb&text_color=475569&icon_color=2563eb&border_color=94a3b8&bg_color=00000000&count_private=true" alt="Ariel's GitHub Stats" />  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Arielh7&layout=compact&theme=transparent&title_color=2563eb&text_color=475569&icon_color=2563eb&border_color=94a3b8&bg_color=00000000&langs_count=8" alt="Top Languages" />
-</p>---
+</p>
+
+---
 
 🔗 Connect With Me
 
@@ -74,7 +76,9 @@ I enjoy understanding how things work, experimenting with new ideas, and continu
   </a>  <a href="https://github.com/Arielh7">
     <img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
   </a>
-</p>---
+</p>
+
+---
 
 <p align="center">
   <i>"The best way to predict the future is to create it."</i>
