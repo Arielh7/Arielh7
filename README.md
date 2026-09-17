@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Arielh7">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:2563eb&height=190&section=header&text=Hello%20I%20am%20Ariel&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt="Hello! I'm Ariel" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:2563eb&height=230&section=header&text=Hello%20I%20am%20Ariel&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt="Hello! I'm Ariel" />
   </a>
 </p>
 </p><p align="center">
@@ -9,7 +9,9 @@
   <a href="https://github.com/Arielh7">
     <img src="https://komarev.com/ghpvc/?username=Arielh7&color=2563eb&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
   </a>
-</p>---
+</p>
+
+---
 
 👨‍💻 About Me
 
@@ -38,13 +40,17 @@ I enjoy understanding how things work, experimenting with new ideas, and continu
   <img src="https://img.shields.io/badge/C%2B%2B-1E293B?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
   <img src="https://img.shields.io/badge/JavaScript-1E293B?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Bash-1E293B?style=for-the-badge&logo=gnubash&logoColor=4EAA25" alt="Bash" />
-</p>🌐 Web Development
+</p>
+
+🌐 Web Development
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-1E293B?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1E293B?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
   <img src="https://img.shields.io/badge/React-1E293B?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-</p>🔧 Tools
+</p>
+
+🔧 Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-1E293B?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
