@@ -20,12 +20,13 @@
 </h3>
 
 <div align="center">
-[<>] Programming and software development
-[<>] Automation
-[<>] Problem solving
-[<>] Learning new technologies
+[<>] Programming and software development<br>
+[<>] Automation<br>
+[<>] Problem solving<br>
+[<>] Learning new technologies<br>
 [<>] Designing efficient systems
 
+<br>
 <font size="4">*I enjoy understanding how things work, experimenting with new ideas, and continuously improving my programming skills.*</font>
 
 </div>
