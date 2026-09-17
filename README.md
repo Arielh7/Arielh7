@@ -6,7 +6,7 @@
   <code><font color="#4ADE80">ariel@github</font><font color="#86EFAC">:~$</font> <font color="#22c55e">whoami</font></code>
 </h3>
 
-<div align="center">
+<div align="left">
 <font size="4">
 
 > **Ariel Acosta García** — Automatic Engineering Student passionate about technology and programming.
@@ -27,6 +27,7 @@
 [<>] Designing efficient systems
 
 <br>
+
 <font size="4">*I enjoy understanding how things work, experimenting with new ideas, and continuously improving my programming skills.*</font>
 
 </div>
