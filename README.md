@@ -20,18 +20,11 @@
 </h3>
 
 <div align="center">
-<table>
-<tr>
-<td>
-<> Programming and software development
-<> Automation
-<> Problem solving
-<> Learning new technologies
-<> Designing efficient systems
-
-</td>
-</tr>
-</table>
+[<>] Programming and software development
+[<>] Automation
+[<>] Problem solving
+[<>] Learning new technologies
+[<>] Designing efficient systems
 
 <font size="4">*I enjoy understanding how things work, experimenting with new ideas, and continuously improving my programming skills.*</font>
 
