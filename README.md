@@ -7,10 +7,12 @@
 </h3>
 
 <div align="center">
+<font size="4">
 
 > **Ariel Acosta García** — Automatic Engineering Student passionate about technology and programming.
 > Constantly learning and building personal projects to solve real-world problems.
 
+</font>
 </div>
 
 <h3 align="center">
@@ -18,16 +20,20 @@
 </h3>
 
 <div align="center">
+<table>
+<tr>
+<td>
+<> Programming and software development
+<> Automation
+<> Problem solving
+<> Learning new technologies
+<> Designing efficient systems
 
-```
-[💻] Programming and software development
-[⚙️] Automation
-[🧠] Problem solving
-[🚀] Learning new technologies
-[🔧] Designing efficient systems
-```
+</td>
+</tr>
+</table>
 
-> *I enjoy understanding how things work, experimenting with new ideas, and continuously improving my programming skills.*
+<font size="4">*I enjoy understanding how things work, experimenting with new ideas, and continuously improving my programming skills.*</font>
 
 </div>
 
@@ -105,5 +111,5 @@
 </p>
 
 <p align="center">
-  <sub><font color="#86EFAC">Thanks for visiting my profile! 🚀</font></sub>
+  <sub><font color="#86EFAC" size="4">Thanks for visiting my profile! 🚀</font></sub>
 </p>
