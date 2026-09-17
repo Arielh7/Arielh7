@@ -70,7 +70,7 @@ I enjoy understanding how things work, experimenting with new ideas, and continu
 <p align="center">
   <a href="mailto:arielacostagarcia2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
-  </a>  <a> href="https://github.com/Arielh7">
+  </a>  <a href="https://github.com/Arielh7">
     <img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
   </a>
 </p>
