@@ -19,7 +19,7 @@
   <code><font color="#4ADE80">ariel@github</font><font color="#86EFAC">:~$</font> <font color="#22c55e">cat</font> <font color="#A7F3D0">interests.txt</font></code>
 </h3>
 
-<div align="center">
+<div align="left">
 [<>] Programming and software development<br>
 [<>] Automation<br>
 [<>] Problem solving<br>
