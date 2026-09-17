@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Arielh7">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:2563eb&height=230&section=header&text=Hello!%20I'm%20Ariel&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt="Hello! I'm Ariel" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:2563eb&height=190&section=header&text=Hello!%20I'm%20Ariel&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt="Hello! I'm Ariel" />
   </a>
 </p>
 </p><p align="center">
