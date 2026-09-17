@@ -28,8 +28,6 @@
 
 <br>
 
-<font size="4">*I enjoy understanding how things work, experimenting with new ideas, and continuously improving my programming skills.*</font>
-
 </div>
 
 <h3 align="center">
