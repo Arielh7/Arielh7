@@ -1,7 +1,8 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
-  Hello! I'm Ariel
-</h1>
+<p align="center">
+  <a href="https://github.com/Arielh7">
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=e5484d&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Ariel" alt="Hello! I&#39;m Ariel" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&pause=1000&color=%23FF0000&center=true&vCenter=true&random=false&width=500&lines=Automatic+Engineering+Student;Tech+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
