@@ -5,11 +5,6 @@
 </p>
 </p><p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=600&lines=Automatic+Engineering+Student;Tech+Enthusiast;Always+Learning+New+Things;Building+Projects+That+Solve+Real+Problems" alt="Typing SVG" />
-</p><p align="center">
-  <a href="https://github.com/Arielh7">
-    <img src="https://komarev.com/ghpvc/?username=Arielh7&color=2563eb&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
-  </a>
-</p>
 
 ---
 
@@ -57,7 +52,9 @@ I enjoy understanding how things work, experimenting with new ideas, and continu
   <img src="https://img.shields.io/badge/GitHub-1E293B?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS%20Code-1E293B?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="VS Code" />
   <img src="https://img.shields.io/badge/Linux-1E293B?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux" />
-</p>---
+</p>
+
+---
 
 
 📊 GitHub Stats
@@ -82,6 +79,13 @@ I enjoy understanding how things work, experimenting with new ideas, and continu
 
 <p align="center">
   <i>"The best way to predict the future is to create it."</i>
+
+</p><p align="center">
+  <a href="https://github.com/Arielh7">
+    <img src="https://komarev.com/ghpvc/?username=Arielh7&color=2563eb&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
+  </a>
+</p>
+
 </p><p align="center">
   <sub>Thanks for visiting my profile! 🚀</sub>
 </p>
