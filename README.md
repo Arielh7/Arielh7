@@ -1,7 +1,8 @@
 <p align="center">
   <a href="https://github.com/Arielh7">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:2563eb&height=190&section=header&text=Hello!%20I'm%20Ariel&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=70" alt="Hello! I'm Ariel" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:2563eb&height=190&section=header&text=Hello%20I%20am%20Ariel&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt="Hello! I'm Ariel" />
   </a>
+</p>
 </p><p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&pause=1000&color=38BDF8&center=true&vCenter=true&random=false&width=600&lines=Automatic+Engineering+Student;Tech+Enthusiast;Always+Learning+New+Things;Building+Projects+That+Solve+Real+Problems" alt="Typing SVG" />
 </p><p align="center">
