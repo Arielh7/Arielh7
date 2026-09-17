@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Arielh7">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=e5484d&fontSize=54&height=90&width=602&text=Hello!%20I'm%20Ariel" alt="Hello! I&#39;m Ariel" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=e5484d&height=120&section=header&text=Hello!%20I'm%20Ariel&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=40" alt="Hello! I'm Ariel" />
   </a>
 </p>
 
@@ -43,8 +43,8 @@ Technologies and tools
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Arielh7&show_icons=true&theme=tokyonight&title_color=e5484d&icon_color=e5484d&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Arielh7&layout=compact&theme=tokyonight&title_color=e5484d&icon_color=e5484d&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Arielh7&show_icons=true&title_color=e5484d&text_color=ffffff&icon_color=e5484d&border_color=e5484d&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Arielh7&layout=compact&title_color=e5484d&text_color=ffffff&icon_color=e5484d&border_color=e5484d&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ---
@@ -52,5 +52,5 @@ Technologies and tools
 <p align="center">
   <i>"The best way to predict the future is to create it."</i>
   <br />
-  <img src="https://komarev.com/ghpvc/?username=Arielh7&color=00C9A7&style=flat-square" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Arielh7&color=e5484d&style=flat-square" alt="Profile views" />
 </p>
