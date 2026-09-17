@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Arielh7">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=e5484d&height=120&section=header&text=Hello!%20I'm%20Ariel&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=40" alt="Hello! I'm Ariel" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=e5484d&height=180&section=header&text=Hello!%20I'm%20Ariel&fontSize=54&fontColor=ffffff&animation=twinkling&fontAlignY=70" alt="Hello! I'm Ariel" />
   </a>
 </p>
 
@@ -43,8 +43,8 @@ Technologies and tools
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Arielh7&show_icons=true&title_color=e5484d&text_color=ffffff&icon_color=e5484d&border_color=e5484d&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Arielh7&layout=compact&title_color=e5484d&text_color=ffffff&icon_color=e5484d&border_color=e5484d&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Arielh7&show_icons=true&title_color=e5484d&text_color=333333&icon_color=e5484d&border_color=e5484d&bg_color=00000000&count_private=true" alt="stats" />
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Arielh7&layout=compact&title_color=e5484d&text_color=333333&icon_color=e5484d&border_color=e5484d&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ---
