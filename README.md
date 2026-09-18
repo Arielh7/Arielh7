@@ -9,7 +9,7 @@
 <div align="left">
 <font size="4">
 
-> **Ariel Acosta García** — Automatic Engineering Student passionate about technology and programming.
+> **Ariel Acosta García** — Automation Engineering student passionate about systems programming and algorithmic challenges.
 > Constantly learning and building personal projects to solve real-world problems.
 
 </font>
@@ -20,11 +20,10 @@
 </h3>
 
 <div align="left">
-[<>] Programming and software development<br>
-[<>] Automation<br>
-[<>] Problem solving<br>
-[<>] Learning new technologies<br>
-[<>] Designing efficient systems
+[<>] Low-level programming
+[<>] Linux internals: kernel, memory, processes
+[<>] Competitive programming and algorithms
+[<>] Building small tools to understand big things
 
 <br>
 
