@@ -20,9 +20,9 @@
 </h3>
 
 <div align="left">
-[<>] Low-level programming
-[<>] Linux internals: kernel, memory, processes
-[<>] Competitive programming and algorithms
+[<>] Low-level programming<br>
+[<>] Linux internals: kernel, memory, processes<br>
+[<>] Competitive programming and algorithms<br>
 [<>] Building small tools to understand big things
 
 <br>
