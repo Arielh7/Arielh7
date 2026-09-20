@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&pause=1000&color=4ADE80&center=true&vCenter=true&random=false&width=600&lines=Automatic+Engineering+Student;Tech+Enthusiast;Always+Learning+New+Things;Building+Projects+That+Solve+Real+Problems" alt="Typing SVG" />
 </p>
 
-<h3 align="center">
+<h3 align="left">
   <code><font color="#4ADE80">ariel@github</font><font color="#86EFAC">:~$</font> <font color="#22c55e">whoami</font></code>
 </h3>
 
@@ -15,7 +15,7 @@
 </font>
 </div>
 
-<h3 align="center">
+<h3 align="left">
   <code><font color="#4ADE80">ariel@github</font><font color="#86EFAC">:~$</font> <font color="#22c55e">cat</font> <font color="#A7F3D0">interests.txt</font></code>
 </h3>
 
@@ -29,7 +29,7 @@
 
 </div>
 
-<h3 align="center">
+<h3 align="left">
   <code><font color="#4ADE80">ariel@github</font><font color="#86EFAC">:~$</font> <font color="#22c55e">ls</font> <font color="#A7F3D0">./tech_stack</font></code>
 </h3>
 
@@ -70,7 +70,7 @@
 </tr>
 </table>
 
-<h3 align="center">
+<h3 align="left">
   <code><font color="#4ADE80">ariel@github</font><font color="#86EFAC">:~$</font> <font color="#22c55e">./github_stats</font> <font color="#A7F3D0">--user Arielh7</font></code>
 </h3>
 
@@ -79,7 +79,7 @@
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Arielh7&layout=compact&theme=transparent&title_color=22c55e&text_color=86efac&icon_color=4ade80&border_color=4ade80&bg_color=00000000&langs_count=8" alt="Top Languages" />
 </p>
 
-<h3 align="center">
+<h3 align="left">
   <code><font color="#4ADE80">ariel@github</font><font color="#86EFAC">:~$</font> <font color="#22c55e">./connect</font> <font color="#A7F3D0">--social</font></code>
 </h3>
 
@@ -92,7 +92,7 @@
   </a>
 </p>
 
-<h3 align="center">
+<h3 align="left">
   <code><font color="#4ADE80">ariel@github</font><font color="#86EFAC">:~$</font> <font color="#22c55e">echo</font> <font color="#A7F3D0">"The best way to predict the future is to create it."</font></code>
 </h3>
 
