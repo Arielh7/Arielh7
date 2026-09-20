@@ -69,6 +69,7 @@
 </td>
 </tr>
 </table>
+<br clear="all">
 
 <h3 align="left">
   <code><font color="#4ADE80">ariel@github</font><font color="#86EFAC">:~$</font> <font color="#22c55e">./github_stats</font> <font color="#A7F3D0">--user Arielh7</font></code>
@@ -76,7 +77,6 @@
 
 <p align="left">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Arielh7&show_icons=true&theme=transparent&title_color=22c55e&text_color=86efac&icon_color=4ade80&border_color=4ade80&bg_color=00000000&count_private=true" alt="Ariel's GitHub Stats" />
-  <br>
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Arielh7&layout=compact&theme=transparent&title_color=22c55e&text_color=86efac&icon_color=4ade80&border_color=4ade80&bg_color=00000000&langs_count=8" alt="Top Languages" />
 </p>
 
@@ -97,12 +97,12 @@
   <code><font color="#4ADE80">ariel@github</font><font color="#86EFAC">:~$</font> <font color="#22c55e">echo</font> <font color="#A7F3D0">"The best way to predict the future is to create it."</font></code>
 </h3>
 
-<p align="center">
+<p align=left">
   <a href="https://github.com/Arielh7">
     <img src="https://komarev.com/ghpvc/?username=Arielh7&color=16a34a&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <sub><font color="#86EFAC" size="4">Thanks for visiting my profile! 🚀</font></sub>
 </p>
