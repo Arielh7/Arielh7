@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&pause=1000&color=4ADE80&center=true&vCenter=true&random=false&width=600&lines=Automatic+Engineering+Student;Tech+Enthusiast;Always+Learning+New+Things;Building+Projects+That+Solve+Real+Problems" alt="Typing SVG" />
 </p>
 
@@ -33,7 +33,7 @@
   <code><font color="#4ADE80">ariel@github</font><font color="#86EFAC">:~$</font> <font color="#22c55e">ls</font> <font color="#A7F3D0">./tech_stack</font></code>
 </h3>
 
-<table align="center">
+<table align="left">
 <tr>
 <td valign="top" width="50%">
 
@@ -83,7 +83,7 @@
   <code><font color="#4ADE80">ariel@github</font><font color="#86EFAC">:~$</font> <font color="#22c55e">./connect</font> <font color="#A7F3D0">--social</font></code>
 </h3>
 
-<p align="center">
+<p align="left">
   <a href="mailto:arielacostagarcia2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-052E16?style=for-the-badge&logo=gmail&logoColor=4ADE80" alt="Email" />
   </a>
