@@ -70,7 +70,6 @@
 </tr>
 </table>
 <br clear="all">
-
 <h3 align="left">
   <code><font color="#4ADE80">ariel@github</font><font color="#86EFAC">:~$</font> <font color="#22c55e">./github_stats</font> <font color="#A7F3D0">--user Arielh7</font></code>
 </h3>
