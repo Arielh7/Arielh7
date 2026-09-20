@@ -76,6 +76,7 @@
 
 <p align="left">
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Arielh7&show_icons=true&theme=transparent&title_color=22c55e&text_color=86efac&icon_color=4ade80&border_color=4ade80&bg_color=00000000&count_private=true" alt="Ariel's GitHub Stats" />
+  <br>
   <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Arielh7&layout=compact&theme=transparent&title_color=22c55e&text_color=86efac&icon_color=4ade80&border_color=4ade80&bg_color=00000000&langs_count=8" alt="Top Languages" />
 </p>
 
