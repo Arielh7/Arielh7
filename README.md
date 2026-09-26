@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&pause=1000&color=4ADE80&center=true&vCenter=true&random=false&width=600&lines=Automatic+Engineering+Student;Tech+Enthusiast;Always+Learning+New+Things;Building+Projects+That+Solve+Real+Problems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&pause=1000&color=4ADE80&center=true&vCenter=true&random=false&width=600&lines=Automation+Engineering+Student;Low-Level+C+Programmer;Firmware+Enthusiast;Competitive+Programmer;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 <h3 align="left">
@@ -9,8 +9,8 @@
 <div align="left">
 <font size="4">
 
-> **Ariel Acosta García** — Automation Engineering student passionate about systems programming and algorithmic challenges.
-> Constantly learning and building personal projects to solve real-world problems.
+> **Ariel Acosta García** — Automation Engineering student passionate about low-level programming in C, firmware development, and algorithmic problem solving.
+> Constantly learning and building projects.
 
 </font>
 </div>
@@ -20,8 +20,8 @@
 </h3>
 
 <div align="left">
-[<>] Low-level programming<br>
-[<>] Linux internals: kernel, memory, processes<br>
+[<>] Low-level programming in C<br>
+[<>] Firmware development for microcontrollers (ATmega, AVR)<br>
 [<>] Competitive programming and algorithms<br>
 [<>] Building small tools to understand big things
 
@@ -46,6 +46,18 @@
   <img src="https://img.shields.io/badge/Bash-166534?style=for-the-badge&logo=gnubash&logoColor=4ADE80" alt="Bash" />
 </p>
 
+**<font color="#4ADE80">`~/embedded`</font>**
+
+<p>
+  <img src="https://img.shields.io/badge/AVR-052E16?style=for-the-badge&logo=atmel&logoColor=A7F3D0" alt="AVR" />
+  <img src="https://img.shields.io/badge/PlatformIO-064E3B?style=for-the-badge&logo=platformio&logoColor=86EFAC" alt="PlatformIO" />
+  <img src="https://img.shields.io/badge/MPLAB%20X-14532D?style=for-the-badge&logo=microchip&logoColor=4ADE80" alt="MPLAB X" />
+  <img src="https://img.shields.io/badge/Arduino-166534?style=for-the-badge&logo=arduino&logoColor=A3E635" alt="Arduino" />
+</p>
+
+</td>
+<td valign="top" width="50%">
+
 **<font color="#4ADE80">`~/web_development`</font>**
 
 <p>
@@ -53,9 +65,6 @@
   <img src="https://img.shields.io/badge/CSS3-064E3B?style=for-the-badge&logo=css3&logoColor=4ADE80" alt="CSS3" />
   <img src="https://img.shields.io/badge/React-14532D?style=for-the-badge&logo=react&logoColor=6EE7B7" alt="React" />
 </p>
-
-</td>
-<td valign="top" width="50%">
 
 **<font color="#4ADE80">`~/tools`</font>**
 
@@ -93,7 +102,7 @@
 </p>
 
 <h3 align="left">
-  <code><font color="#4ADE80">ariel@github</font><font color="#86EFAC">:~$</font> <font color="#22c55e">echo</font> <font color="#A7F3D0">"The best way to predict the future is to create it."</font></code>
+  <code><font color="#4ADE80">ariel@github</font><font color="#86EFAC">:~$</font> <font color="#22c55e">echo</font> <font color="#A7F3D0">"Talk is cheap. Show me the code." — Linus Torvalds</font></code>
 </h3>
 
 <p align=left">
