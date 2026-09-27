@@ -100,7 +100,7 @@
 </p>
 
 <h3 align="left">
-  <code><font color="#4ADE80">ariel@github</font><font color="#86EFAC">:~$</font> <font color="#22c55e">echo</font> <font color="#A7F3D0">"Talk is cheap. Show me the code." — Linus Torvalds</font></code>
+  <code><font color="#4ADE80">ariel@github</font><font color="#86EFAC">:~$</font> <font color="#22c55e">echo</font> <font color="#A7F3D0">"If it simulates, it works. If it works, commit it."</font></code>
 </h3>
 
 <p align=left">
