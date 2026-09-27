@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&pause=1000&color=4ADE80&center=true&vCenter=true&random=false&width=600&lines=Automation+Engineering+Student;Low-Level+C+Programmer;Firmware+Enthusiast;Competitive+Programmer;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&pause=1000&color=4ADE80&center=true&vCenter=true&random=false&width=600&lines=Automation+Engineering+Student;Firmware+Enthusiast;Competitive+Programmer;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 <h3 align="left">
@@ -9,7 +9,7 @@
 <div align="left">
 <font size="4">
 
-> **Ariel Acosta García** — Automation Engineering student passionate about low-level programming in C, firmware development, and algorithmic problem solving.
+> **Ariel Acosta García** — Automation Engineering student. I like programming. That's it.
 > Constantly learning and building projects.
 
 </font>
