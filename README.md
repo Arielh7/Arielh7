@@ -49,9 +49,7 @@
 **<font color="#4ADE80">`~/embedded`</font>**
 
 <p>
-  <img src="https://img.shields.io/badge/AVR-052E16?style=for-the-badge&logo=atmel&logoColor=A7F3D0" alt="AVR" />
   <img src="https://img.shields.io/badge/PlatformIO-064E3B?style=for-the-badge&logo=platformio&logoColor=86EFAC" alt="PlatformIO" />
-  <img src="https://img.shields.io/badge/MPLAB%20X-14532D?style=for-the-badge&logo=microchip&logoColor=4ADE80" alt="MPLAB X" />
   <img src="https://img.shields.io/badge/Arduino-166534?style=for-the-badge&logo=arduino&logoColor=A3E635" alt="Arduino" />
 </p>
 
