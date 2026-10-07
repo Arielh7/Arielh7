@@ -35,7 +35,7 @@
 
 <table align="left">
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="100%">
 
 **<font color="#4ADE80">`~/languages`</font>**
 
@@ -45,9 +45,6 @@
   <img src="https://img.shields.io/badge/JavaScript-14532D?style=for-the-badge&logo=javascript&logoColor=BBF7D0" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Bash-166534?style=for-the-badge&logo=gnubash&logoColor=4ADE80" alt="Bash" />
 </p>
-
-</td>
-<td valign="top" width="50%">
 
 **<font color="#4ADE80">`~/web_development`</font>**
 
@@ -63,12 +60,10 @@
   <img src="https://img.shields.io/badge/Git-052E16?style=for-the-badge&logo=git&logoColor=4ADE80" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-064E3B?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS%20Code-14532D?style=for-the-badge&logo=visualstudiocode&logoColor=86EFAC" alt="VS Code" />
-    <img src="https://img.shields.io/badge/PlatformIO-064E3B?style=for-the-badge&logo=platformio&logoColor=86EFAC" alt="PlatformIO" />
+  <img src="https://img.shields.io/badge/PlatformIO-064E3B?style=for-the-badge&logo=platformio&logoColor=86EFAC" alt="PlatformIO" />
   <img src="https://img.shields.io/badge/Arduino-166534?style=for-the-badge&logo=arduino&logoColor=A3E635" alt="Arduino" />
   <img src="https://img.shields.io/badge/Linux-166534?style=for-the-badge&logo=linux&logoColor=A3E635" alt="Linux" />
 </p>
-
-
 
 </td>
 </tr>
