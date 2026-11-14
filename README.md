@@ -21,7 +21,7 @@
 
 <div align="left">
 [<>] Low-level programming in C<br>
-[<>] Firmware development for microcontrollers (ATmega, AVR)<br>
+[<>] Firmware development for microcontrollers (AVR)<br>
 [<>] Competitive programming and algorithms<br>
 [<>] Building small tools to understand big things
 
